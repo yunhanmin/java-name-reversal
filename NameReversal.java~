@@ -1,0 +1,14 @@
+/*
+ * Project: NameReversal.java
+ * Description: An investigation into "for" loops.
+ * Name: Hanmin Yun
+ * Date: Sept 14, 2015
+ */
+
+public class NameReversal {
+  
+  public static void main( String[] args ){
+    
+  } // end main
+  
+} // end class
